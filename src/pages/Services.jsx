@@ -1,8 +1,13 @@
 import React from 'react'
-
+import img3 from '../images/download.jpg';
 function Services() {
   return (
-    <div>Services</div>
+    <div>Services
+
+      <img src={img3} alt="" />
+    </div>
+
+    
   )
 }
 
