@@ -40,10 +40,10 @@
   font-family: opensans, sans-serif;
 }
 .c1 {
-  height: 1000px;
+  height: 100%;
 }
 .con-logo {
-  background-color: rgb(74, 74, 255);
+  background-color: rgba(50, 50, 241, 0.76);
   height: 50px;
   width: 100%;
   display: flex;
@@ -87,7 +87,7 @@
   transition: 0.2s;
 }
 .navbar {
-  height: 70px;
+  height: 100%;
 }
 .navsection {
   width: 100%;
@@ -339,9 +339,219 @@
 }
 
 .footer{
-  background-color:blue;
+  background-color:rgb(55, 55, 241);
   color: white;
 }
 .con15{
   padding-top: 50px;
+}
+.aboutus-title{
+   
+   border: 1px solid skyblue;
+   font-size: 30px;
+   height: 50px;
+   width: 150px;
+   border-radius: 10px;
+   color: rgba(38, 38, 220, 0.789);
+}
+.about-black{
+  font-size: 30px;
+  font-weight: bold;
+}
+.about-blue {
+  color: blue;
+}
+.about-normal {
+  font-size:20px;
+}
+.text-c1{
+  height: 100%;
+  margin-bottom:20px;
+  
+}
+.about-img{
+
+  height: 100%;
+  margin-bottom:20px;
+}
+
+.about-des{
+  height: 100%;
+  text-align: start;
+  margin-top:50px;
+  background:#8daff32f;
+  
+}
+.about-img img{
+  height: 100%;
+  width: 90%;
+}
+.des-text{
+  font-weight: bold;
+ 
+}
+.ulcamo-text-head{
+  font-size: 22px;
+  font-weight: bold;
+  color: #3b78f1;
+}
+.ulcamo{
+  display: flex;
+  margin-top: 50px;
+ 
+}
+.ulcamo-text{
+ text-align: start;
+ margin-left: 25px;
+}
+.ulcamo-icon{
+  font-size: 40px;
+}
+.magnam-text-head{
+  font-size: 22px;
+  font-weight: bold;
+  color: #3b78f1;
+}
+.magnam{
+  display: flex;
+  margin-top: 50px;
+}
+.magnam-text{
+ text-align: start;
+ margin-left: 25px;
+}
+.magnam-icon{
+  font-size: 40px;
+}
+.about-footer{
+   margin-top: 50px;
+}
+.about-body{
+  font-family: opensans, sans-serif;
+  background:#8daff32f;
+  height: 100%;
+}
+.aboutus{
+  margin-bottom: 100px;
+}
+.pro-box1{
+  margin-top: 50px;
+}
+.bar1{
+  margin-bottom: 20px;
+}
+.about-progress{
+margin-bottom: 50px;
+}
+.card-box{
+  height: 200px;
+}
+.innercard{
+ 
+  height: 180px;
+  padding: 20px;
+  background:#8daff32f;
+  border-radius: 10px;
+}
+.innercard-icon{
+  font-size: 40px;
+}
+.sponcer-img{
+  height: 50px;
+  margin-top: 20px;
+}
+.sponcer-img img{
+  height: 50px;
+}
+.section6{
+  background-color: rgb(234, 248, 253);
+}    
+.box7{
+  height: 100px;
+}
+.portfolio-body{
+  font-family: opensans, sans-serif;
+  height: 100%;
+}
+.port-gellery-card{
+  height: 100%;
+}
+.port-gellery-box{
+  height: 100%;
+  border: 1px solid black;
+  }
+  .box8-img-1 img{
+    height: 400px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-1{
+    position: relative;
+}
+.box8-img-2 img{
+    height: 500px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-2{
+    position: relative;
+}
+.box8-img-3 img{
+    height: 250px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-3{
+    position: relative;
+}
+.box8-img-4 img{
+    height: 500px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-4{
+    position: relative;
+}
+.box8-img-5 img{
+    height: 250px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-5{
+    position: relative;
+}
+.box8-img-6 img{
+    height: 230px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-6{
+    position: relative;
+}
+.box8-img-7 img{
+    height: 230px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-7{
+    position: relative;
+}
+.box8-img-8 img{
+    height: 230px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-8{
+    position: relative;
+}
+.box8-img-9 img{
+    height: 230px;
+    margin-top: 10px;
+    width: 100%;
+}
+.box8-img-9{
+    position: relative;
+}
+.box9{
+    padding-top: 20px;
 }

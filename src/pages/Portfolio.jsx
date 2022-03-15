@@ -1,8 +1,11 @@
 import React from 'react'
+import PortfolioComponents from '../components/PortfolioComponents'
 
 function Portfolio() {
   return (
-    <div>Portfolio</div>
+    <div>
+      <PortfolioComponents/>
+    </div>
   )
 }
 
