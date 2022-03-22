@@ -1,10 +1,11 @@
 import React from 'react'
-import img3 from '../images/download.jpg';
+import ServiceComponents from '../components/ServiceComponents';
+
 function Services() {
   return (
-    <div>Services
+    <div>
 
-      <img src={img3} alt="" />
+     <ServiceComponents/>
     </div>
 
     

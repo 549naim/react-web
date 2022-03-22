@@ -19,7 +19,7 @@ import client6 from  "../images/clients/client-6.png"
 function AboutComponents() {
   return (
     <div>
-      <div className="about-body">
+      <div className=" about-body">
         {/* header section */}
         <div className="c">
           <div className="con-logo">
@@ -133,6 +133,7 @@ function AboutComponents() {
             </div>
           </div>
         </div>
+        <hr />
 
         {/* progress bar */}
         <div className="container about-progress">

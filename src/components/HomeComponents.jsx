@@ -20,7 +20,7 @@ import person4 from "../../src/images/person4.jpg";
 
 function HomeComponents() {
   return (
-    <div className="body">
+    <div className=" body">
       <div className=" c">
         <div className="con-logo">
           <div className="con">
